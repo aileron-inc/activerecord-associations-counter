@@ -1,5 +1,5 @@
 module ActiveRecord
-  class Precounter
+  class AssociationsCounter
     VERSION = '0.1.0'.freeze
   end
 end
